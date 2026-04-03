@@ -1,0 +1,15 @@
+artifact_uri: file:///home/r/lighter/python/Experiment_SML_Muhamad_Rifal_Afandi/Membangun_model/mlruns/0/1eff574148b347fcab0c724afa48b202/artifacts
+end_time: 1775187917486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1eff574148b347fcab0c724afa48b202
+run_name: polite-fawn-37
+run_uuid: 1eff574148b347fcab0c724afa48b202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775187915607
+status: 3
+tags: []
+user_id: r

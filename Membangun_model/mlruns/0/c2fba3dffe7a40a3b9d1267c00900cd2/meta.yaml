@@ -1,0 +1,15 @@
+artifact_uri: file:///home/r/lighter/python/Experiment_SML_Muhamad_Rifal_Afandi/Membangun_model/mlruns/0/c2fba3dffe7a40a3b9d1267c00900cd2/artifacts
+end_time: 1775188273870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c2fba3dffe7a40a3b9d1267c00900cd2
+run_name: lyrical-sheep-299
+run_uuid: c2fba3dffe7a40a3b9d1267c00900cd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775188272007
+status: 3
+tags: []
+user_id: r

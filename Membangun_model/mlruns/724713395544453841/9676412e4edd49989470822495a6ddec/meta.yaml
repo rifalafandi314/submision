@@ -1,0 +1,15 @@
+artifact_uri: file:///home/r/lighter/python/Experiment_SML_Muhamad_Rifal_Afandi/Membangun_model/mlruns/724713395544453841/9676412e4edd49989470822495a6ddec/artifacts
+end_time: 1775193157014
+entry_point_name: ''
+experiment_id: '724713395544453841'
+lifecycle_stage: active
+run_id: 9676412e4edd49989470822495a6ddec
+run_name: youthful-pug-590
+run_uuid: 9676412e4edd49989470822495a6ddec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775193136360
+status: 3
+tags: []
+user_id: r
